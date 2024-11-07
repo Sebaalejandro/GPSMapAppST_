@@ -10,7 +10,7 @@ GPSMapApp es una aplicación de Android desarrollada en Java que muestra la ubic
 
 ## Instrucciones de Ejecución
 
-1. Clona el repositorio: `https://github.com/Sebaalejandro/GPSMapApp_ST`
+1. Clona el repositorio: `https://github.com/Sebaalejandro/GPSMapAppST_`
 
 2. Abre el proyecto en Android Studio.
 
